@@ -41,7 +41,3 @@ O projeto inclui os seguintes arquivos SQL:
 1.  **Criação do Banco de Dados**: Execute o script `schema_corrected.sql` em um ambiente SQLite para criar as tabelas.
 2.  **Inserção de Dados**: Execute o script `Airport.session.sql` para popular o banco de dados com dados de exemplo.
 3.  **Consultas**: Utilize as consultas presentes no `Airport.session.sql` ou crie suas próprias para explorar os dados.
-
-## Contribuição
-
-Sinta-se à vontade para propor melhorias, correções ou novas funcionalidades. Este projeto é um ponto de partida para um sistema de gerenciamento de voos mais robusto.
