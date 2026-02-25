@@ -18,7 +18,6 @@ VALUES ('TP082', 1, 'GRU', 'LIS', '2026-06-15 19:00:00', '2026-06-16 07:00:00', 
 INSERT INTO tb_clientes (nm_cliente, ds_email, nr_cpf) 
 VALUES ('Alex Aluno', 'alex@faculdade.com', '123.456.789-00');
 
--- CONSULTA RELATORIAL (O JOIN que você precisava)
 -- Esta consulta mostra o voo com os nomes dos aeroportos em vez de apenas os IDs
 SELECT 
     V.codigo_voo AS "Código Voo",
